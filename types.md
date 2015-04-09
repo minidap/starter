@@ -8,3 +8,6 @@ built-in types :
 - object
 - symbol
 
+check var types with `typeof varname`
+
+
